@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Danny Nelson]]></title>
-  <link href="http://dannynelson.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test1 | Danny Nelson]]></title>
+  <link href="http://dannynelson.github.io/blog/categories/test1/atom.xml" rel="self"/>
   <link href="http://dannynelson.github.io/"/>
   <updated>2013-12-24T09:36:28-08:00</updated>
   <id>http://dannynelson.github.io/</id>
